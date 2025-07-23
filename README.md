@@ -27,10 +27,10 @@ As an example, here is what I wanted to do:
 
 
 
-![App Screenshot]([[https://drive.google.com/file/d/1bToaBHZzRBf9yawCHB-7bjC4GNF4O0Fz/view?usp=sharing](https://github.com/midex882/OpenRA-Image-to-Map-Converter-Generator/blob/main/input.png)](https://freeimage.host/i/FOmddCl))
+![Alt text](/input.png?raw=true "Optional Title")
 
 And this is the result:
 
-![App Screenshot]([[https://drive.google.com/file/d/1AgyNQ1PqzDJTj5w7Gq-eb59hmy_3ZNLV/view?usp=sharing](https://github.com/midex882/OpenRA-Image-to-Map-Converter-Generator/blob/main/result.png)](https://freeimage.host/i/FOmFK3N))
+![App Screenshot](/result.png?raw=true "Optional Title")
 
 Good luck!
